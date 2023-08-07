@@ -1,0 +1,15 @@
+D:\GitHub\HelloC#\HelloC#\bin\Debug\net6.0\HelloC#.exe
+D:\GitHub\HelloC#\HelloC#\bin\Debug\net6.0\HelloC#.deps.json
+D:\GitHub\HelloC#\HelloC#\bin\Debug\net6.0\HelloC#.runtimeconfig.json
+D:\GitHub\HelloC#\HelloC#\bin\Debug\net6.0\HelloC#.dll
+D:\GitHub\HelloC#\HelloC#\bin\Debug\net6.0\HelloC#.pdb
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.csproj.AssemblyReference.cache
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.AssemblyInfoInputs.cache
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.AssemblyInfo.cs
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.csproj.CoreCompileInputs.cache
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.dll
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\refint\HelloC#.dll
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.pdb
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\HelloC#.genruntimeconfig.cache
+D:\GitHub\HelloC#\HelloC#\obj\Debug\net6.0\ref\HelloC#.dll
